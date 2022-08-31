@@ -141,6 +141,9 @@
   <ItemGroup>
     <ClCompile Include="Square(n)Sum.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Zad3.hpp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
