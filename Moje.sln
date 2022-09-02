@@ -23,6 +23,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Zad3Main", "Zad3Main\Zad3Ma
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestFixture", "TestFixture\TestFixture.vcxproj", "{20BD50BE-6DD9-4852-9ACF-0E33452B0DA6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DynamicznePrzydzielaniePamieci", "DynamicznePrzydzielaniePamieci\DynamicznePrzydzielaniePamieci.vcxproj", "{C630263B-5905-454B-B802-6003AAB00E87}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ZaslanianieZmiennych", "ZaslanianieZmiennych\ZaslanianieZmiennych.vcxproj", "{BD1654FE-8350-4000-9285-F9022CB17344}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -111,6 +115,22 @@ Global
 		{20BD50BE-6DD9-4852-9ACF-0E33452B0DA6}.Release|x64.Build.0 = Release|x64
 		{20BD50BE-6DD9-4852-9ACF-0E33452B0DA6}.Release|x86.ActiveCfg = Release|Win32
 		{20BD50BE-6DD9-4852-9ACF-0E33452B0DA6}.Release|x86.Build.0 = Release|Win32
+		{C630263B-5905-454B-B802-6003AAB00E87}.Debug|x64.ActiveCfg = Debug|x64
+		{C630263B-5905-454B-B802-6003AAB00E87}.Debug|x64.Build.0 = Debug|x64
+		{C630263B-5905-454B-B802-6003AAB00E87}.Debug|x86.ActiveCfg = Debug|Win32
+		{C630263B-5905-454B-B802-6003AAB00E87}.Debug|x86.Build.0 = Debug|Win32
+		{C630263B-5905-454B-B802-6003AAB00E87}.Release|x64.ActiveCfg = Release|x64
+		{C630263B-5905-454B-B802-6003AAB00E87}.Release|x64.Build.0 = Release|x64
+		{C630263B-5905-454B-B802-6003AAB00E87}.Release|x86.ActiveCfg = Release|Win32
+		{C630263B-5905-454B-B802-6003AAB00E87}.Release|x86.Build.0 = Release|Win32
+		{BD1654FE-8350-4000-9285-F9022CB17344}.Debug|x64.ActiveCfg = Debug|x64
+		{BD1654FE-8350-4000-9285-F9022CB17344}.Debug|x64.Build.0 = Debug|x64
+		{BD1654FE-8350-4000-9285-F9022CB17344}.Debug|x86.ActiveCfg = Debug|Win32
+		{BD1654FE-8350-4000-9285-F9022CB17344}.Debug|x86.Build.0 = Debug|Win32
+		{BD1654FE-8350-4000-9285-F9022CB17344}.Release|x64.ActiveCfg = Release|x64
+		{BD1654FE-8350-4000-9285-F9022CB17344}.Release|x64.Build.0 = Release|x64
+		{BD1654FE-8350-4000-9285-F9022CB17344}.Release|x86.ActiveCfg = Release|Win32
+		{BD1654FE-8350-4000-9285-F9022CB17344}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

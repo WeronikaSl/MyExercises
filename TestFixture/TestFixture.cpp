@@ -15,6 +15,8 @@ public:
     {
         this->a = a;
     }
+    A()
+    {};
 };
 
 class B
@@ -34,4 +36,7 @@ int main()
     std::cout << a.getA() << std::endl;
     B b;
     std::cout << b.objA.getA();
+
+    A x();
+    A y;
 }
